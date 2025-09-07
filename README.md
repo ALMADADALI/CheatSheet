@@ -11,27 +11,32 @@ Cheatsheets provide a **fast and practical way** to recall commands, techniques,
 ### 🔹 Linux & System
 - Essential Linux commands  
 - Process & service management  
-- File permissions & ownership  
+- File permissions & ownership  and etc.
 
 ### 🔹 Networking
 - Common networking commands  
 - Protocol references (HTTP, DNS, etc.)  
-- Packet analysis shortcuts  
+- Packet analysis shortcuts  and etc.
 
-### 🔹 Web Security
+## 🔹 Information Gathering & Recon
+- Google Dorking cheatsheet  
+- Subdomain enumeration techniques  
+- Directory & file discovery  
+- Recon workflow cheatsheet  and etc.
+
+### 🔹 WAPT
 - OWASP Top 10 quick notes  
-- SQLi / XSS payload snippets  
-- Recon & enumeration techniques  
+- SQLi / XSS payload snippets  and etc.
 
 ### 🔹 Exploitation & Pentesting
 - Reverse shell one-liners  
 - Privilege escalation references  
-- Password cracking tips  
+- Password cracking tips  and etc.
 
 ### 🔹 Bug Bounty & CTF
 - Recon workflow cheatsheet  
 - Common CTF tricks  
-- Burp Suite shortcuts  
+- Burp Suite shortcuts  and etc.
 
 
 ## 🔹 Miscellaneous
