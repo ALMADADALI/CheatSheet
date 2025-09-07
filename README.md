@@ -33,7 +33,12 @@ Cheatsheets provide a **fast and practical way** to recall commands, techniques,
 - Common CTF tricks  
 - Burp Suite shortcuts  
 
+
+## 🔹 Miscellaneous
+
 ---
+
+
 
 ## 🌱 Contribution
 
